@@ -1,2 +1,2 @@
 # revelCanvas
-This
+Revel Canvas App. 
